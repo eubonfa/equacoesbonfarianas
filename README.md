@@ -1,4 +1,4 @@
-# 📘 Equações Bonfarianas de Growth e Produto
+# 📘 Equações Bonfarianas: Engenharia de Growth
 
 **Versão 1.2 – Framework Aberto, Prático e Evolutivo**
 (Revisada e atualizada em 23 de julho de 2025).
@@ -535,6 +535,78 @@ Se o CPL subir acima disso, sua operação fica inviável com essas metas.
   ✅ Ajudar no alinhamento entre marketing, vendas e financeiro
 
 
+
+---
+### 🧮 Definições de Retorno de Investimento: Break-Even vs. Payback
+
+Nas **Equações Bonfarianas**, o tempo de retorno sobre investimento pode ser modelado por diferentes tipos de relação entre receita acumulada e investimento (budget). A **natureza da equação depende diretamente da pergunta que você quer responder**.
+
+---
+
+#### 🟦 1. Quando a operação se paga? (Break-even)
+
+Neste caso, buscamos o ponto exato em que a **receita acumulada empata com o investimento acumulado**:
+
+$$
+\text{Receita acumulada}(t) = \text{Budget acumulado}(t)
+$$
+
+Este momento marca o fim do prejuízo, mas **ainda não há lucro**. É o que chamamos de:
+
+$$
+t_{\text{break-even}} = \text{menor } t \text{ tal que } R(t) = B(t)
+$$
+
+---
+
+#### 🟩 2. Quando começa o retorno real? (Payback)
+
+Se queremos saber **quando há ROI positivo**, a inequação correta é:
+
+$$
+\text{Receita acumulada}(t) > \text{Budget acumulado}(t)
+$$
+
+Ou seja, o momento em que o investimento **começa a gerar lucro**:
+
+$$
+t_{\text{payback}} = \text{menor } t \text{ tal que } R(t) > B(t)
+$$
+
+---
+
+#### 🟨 3. Análise conservadora (viabilidade operacional)
+
+Em alguns cenários, principalmente financeiros ou de risco, usamos:
+
+$$
+\text{Receita acumulada}(t) \geq \text{Budget acumulado}(t)
+$$
+
+Essa formulação mais conservadora responde:
+
+> "A partir de quando *não estou mais no prejuízo*?"
+
+---
+
+### 📊 Conclusão prática
+
+| Pergunta                                                        | Símbolo | Nome técnico        |
+|-----------------------------------------------------------------|---------|---------------------|
+| Quando a operação se paga (break-even)?                         | \\( = \\) | `t_break-even`      |
+| Quando começa o retorno real sobre o investimento?              | \\( > \\) | `t_payback`         |
+| Quando não estamos mais no prejuízo (cenário conservador)?      | \\( \\geq \\) | `t_payback*` ou `t_0` |
+
+---
+
+Essas diferenças são fundamentais para alinhar expectativas com áreas como:
+
+- Financeiro  
+- Investidores  
+- Times de vendas e marketing  
+- Planejamento estratégico
+
+Considere qual métrica adotar conforme o contexto da sua operação e o grau de risco aceito no projeto.
 
 ---
 
