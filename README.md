@@ -105,18 +105,18 @@ $$
 
 ---
 
-## 🔄 Variações e isolamentos
+## Variações e isolamentos
 
 Você pode rearranjar a fórmula para responder diferentes perguntas:
 
 | O que você quer saber? | Fórmula isolada |
-|---|---|
-| Quanto investir (bg)? | $$ bg = \frac{\text{Receita desejada} \times CPL}{T \times C \times R} $$ |
-| Qual o CPL máximo? | $$ CPL_{\text{máx}} = \frac{bg \times T \times C \times R}{\text{Receita desejada}} $$ |
-| Quantos leads gerar (N)? | $$ N = \frac{\text{Receita}}{T \times C \times R} $$ |
-| Qual taxa de conversão necessária (T)? | $$ T = \frac{\text{Receita} \times CPL}{bg \times C \times R} $$ |
-| Qual ticket mínimo (C)? | $$ C = \frac{\text{Receita} \times CPL}{bg \times T \times R} $$ |
-| Qual fator de recorrência (R)? | $$ R = \frac{\text{Receita} \times CPL}{bg \times T \times C} $$ |
+|------------------------|-----------------|
+| Quanto investir (bg)? | ```bg = (Receita desejada × CPL) / (T × C × R)``` |
+| Qual o CPL máximo? | ```CPL_max = (bg × T × C × R) / Receita desejada``` |
+| Quantos leads gerar (N)? | ```N = Receita / (T × C × R)``` |
+| Qual taxa de conversão necessária (T)? | ```T = (Receita × CPL) / (bg × C × R)``` |
+| Qual ticket mínimo (C)? | ```C = (Receita × CPL) / (bg × T × R)``` |
+| Qual fator de recorrência (R)? | ```R = (Receita × CPL) / (bg × T × C)``` |
 
 ---
 
