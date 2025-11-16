@@ -1,15 +1,10 @@
-# 📘 Equações Bonfarianas: Engenharia de Growth
+# 📘 Equações de Receita (Revenue Equations)
 
 **Versão 1.2 – Framework Aberto, Prático e Evolutivo**
 (Revisada e atualizada em 23 de julho de 2025).
 
----
-
-## O que são as Equações Bonfarianas?
-
-As **Equações Bonfarianas de Growth e Produto** são um conjunto de modelos matemáticos abertos para planejar e operar crescimento de forma previsível e escalável.
-
-Criadas por **Paulo Bonfá**, elas servem para transformar o "depende" em **respostas práticas e calculáveis**, permitindo decisões sobre:
+As **Equações de Receita** são um conjunto de modelos matemáticos abertos para planejar e operar crescimento de forma previsível e escalável.
+Criadas por **Paulo Bonfá (Revenue Engineer)**, elas servem para transformar o "depende" em **respostas práticas e calculáveis**, permitindo decisões sobre:
 
 - Quanto investir  
 - Quanto cobrar  
@@ -18,19 +13,9 @@ Criadas por **Paulo Bonfá**, elas servem para transformar o "depende" em **resp
 - Quando um canal está saturando  
 - Como organizar o budget entre canais
 
----
-
-## Por que esse framework existe?
-
-- Evitar achismos no growth e nas vendas  
-- Modelar o crescimento com inequações claras (valores máximos e limites operacionais)  
-- Conectar marketing, vendas, produto e financeiro em um único sistema de decisão  
-
----
-
 ## Como funciona?
 
-As Equações Bonfarianas funcionam como **sistema de inequações e planejamento reverso**.  
+As Equações funcionam como **sistema de inequações e planejamento reverso**.  
 Você pode isolar qualquer variável:
 
 - Budget  
@@ -48,7 +33,7 @@ Você pode isolar qualquer variável:
 
 # Item 1 – Equação Fundamental da Previsibilidade de Receita
 
-## 📌 Contexto: Por que essas fórmulas existem?
+Por que essas fórmulas existem?
 
 A maior dúvida de quem trabalha com Growth e Vendas é:
 
@@ -61,8 +46,6 @@ Antes das Equações Bonfarianas, essa resposta geralmente era:
 > "Depende."
 
 Agora, existe uma fórmula prática para estimar o potencial de receita a partir do orçamento, funil e retenção da operação.
-
-Essas são as **Equações Fundamentais para Previsibilidade de Receita**.
 
 ---
 
@@ -346,7 +329,7 @@ $$
 
 ---
 
-## 📆 ARR — Receita Recorrente Anual (formato bonfariano)
+## 📆 ARR — Receita Recorrente Anual
 
 Estima a receita total recorrente projetada para 12 meses, considerando crescimento linear da base de clientes e churn.
 
