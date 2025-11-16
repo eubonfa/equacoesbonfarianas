@@ -1,15 +1,14 @@
-# 📘 Equações Bonfarianas: Engenharia de Growth
+# 📘 Frameworks e Equações de Engenharia de Receita (RevOps)
 
 **Versão 1.2 – Framework Aberto, Prático e Evolutivo**
-(Revisada e atualizada em 23 de julho de 2025).
+(Revisada e atualizada em 16 de novembro de 2025).
 
 ---
 
-## O que são as Equações Bonfarianas?
+## O que são as Equações de Engenharia de Receita?
 
-As **Equações Bonfarianas de Growth e Produto** são um conjunto de modelos matemáticos abertos para planejar e operar crescimento de forma previsível e escalável.
-
-Criadas por **Paulo Bonfá**, elas servem para transformar o "depende" em **respostas práticas e calculáveis**, permitindo decisões sobre:
+São um conjunto de modelos matemáticos abertos criados pelo Revenue Engineer Paulo Bonfá para planejar e operar crescimento de forma previsível e escalável.
+Elas servem para transformar o "depende" em **respostas práticas e calculáveis**, permitindo decisões sobre:
 
 - Quanto investir  
 - Quanto cobrar  
@@ -30,7 +29,7 @@ Criadas por **Paulo Bonfá**, elas servem para transformar o "depende" em **resp
 
 ## Como funciona?
 
-As Equações Bonfarianas funcionam como **sistema de inequações e planejamento reverso**.  
+As Equações funcionam como **sistema de inequações e planejamento reverso**.  
 Você pode isolar qualquer variável:
 
 - Budget  
